@@ -1,11 +1,17 @@
 <h1 align="center">Hi I'm Jamie 👋 </h1>
 
+- 🌍  I'm based in Carlinford, Ireland.
 
-✔️   I am a control systems software engineer trying to find his way in Web development
+- ✔️   I am a control systems software engineer trying to find my way in Web development.
 
-🌱   I’m currently learning **Full Stack Web Development**
+- 🌱   I’m currently learning **Full Stack Web Development.**
 
-📫   How to reach me **jamiebuick28@gmail.com**
+- ✉️   How to reach me **jamiebuick28@gmail.com**
+
+
+
+
+
 <br>
 <br>
 
