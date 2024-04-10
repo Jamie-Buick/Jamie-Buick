@@ -2,7 +2,7 @@
 
 - 🌍  I'm based in Carlingford, Ireland.
 
-- ✔️   I am a control systems software engineer trying to find my way in Web development.
+- ✔️   I am a Control Systems Software Engineer trying to find my way in Web development.
 
 - 🌱   I’m currently learning **Full Stack Web Development.**
 
