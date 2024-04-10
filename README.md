@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Jamie 👋 </h1>
 
-- 🌍  I'm based in Carlinford, Ireland.
+- 🌍  I'm based in Carlingford, Ireland.
 
 - ✔️   I am a control systems software engineer trying to find my way in Web development.
 
