@@ -1,5 +1,7 @@
 <h1 align="center">Hi I'm Jamie 👋 </h1>
-<h3 align="center">I am a control systems software engineer trying to find his way in Web development</h3>
+
+
+- ✔️ I am a control systems software engineer trying to find his way in Web development
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
