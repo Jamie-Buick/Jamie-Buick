@@ -1,4 +1,5 @@
 <h1 align="center">Hi I'm Jamie 👋 </h1>
+- 📚  MEng Electronic Engineering.
 
 - 🌍  I'm based in Carlingford, Ireland.
 
