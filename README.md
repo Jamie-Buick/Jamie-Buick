@@ -2,7 +2,7 @@
 
 - 📚  MEng Electronic Engineering.
 
-- 🌍  I'm based in Carlingford, Ireland.
+- 🌍  I'm based in Ireland.
 
 - ✔️   I am a Control Systems Software Engineer trying to find my way in Web development.
 
