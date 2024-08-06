@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Jamie 👋 </h1>
-![Profile views](https://komarev.com/ghpvc/?username=Jamie-Buick&label=Profile%20views&color=60598F&style=flat)
+![](https://komarev.com/ghpvc/?username=Jamie-Buick&label=Profile%20views&color=60598F&style=flat)
 
 - 📚  MEng Electronic Engineering.
 
