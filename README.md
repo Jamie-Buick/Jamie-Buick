@@ -1,4 +1,5 @@
 <h1 align="center">Hi I'm Jamie 👋 </h1>
+![Profile views](https://komarev.com/ghpvc/?username=Jamie-Buick&label=Profile%20views&color=60598F&style=flat)
 
 - 📚  MEng Electronic Engineering.
 
@@ -31,9 +32,13 @@
 
 
 <h3 align="left">Github Stats:</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jamie-buick&theme=tokyonight&hide_border=true" alt="jamie-buick's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamie-buick&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="jamie-buick's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=jamie-buick&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="jamie-buick's GitHub Stats" />
+<div>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamie-buick&theme=tokyonight&hide_border=true" alt="jamie-buick's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jamie-buick&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="jamie-buick's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamie-buick&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="jamie-buick's GitHub Stats" />
+  <p/>
+</div>
 
 
 
