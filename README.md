@@ -32,7 +32,7 @@
 
 <h3 align="left">Github Stats:</h3>
 <div>
-  <p align="center">
+  <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamie-buick&theme=tokyonight&hide_border=true" alt="jamie-buick's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api?username=jamie-buick&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="jamie-buick's GitHub Stats" />
   <p/>
