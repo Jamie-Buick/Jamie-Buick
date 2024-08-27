@@ -42,7 +42,6 @@
 <div>
   <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamie-buick&theme=tokyonight&hide_border=true" alt="jamie-buick's GitHub Stats" />
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamie-buick)](https://github.com/anuraghazra/github-readme-stats)
     <img src="https://github-readme-stats.vercel.app/api?username=jamie-buick&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="jamie-buick's GitHub Stats" />
   <p/>
 </div>
