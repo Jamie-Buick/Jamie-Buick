@@ -8,6 +8,8 @@
 
 - 🌱   I’m currently learning **Full Stack Web Development.**
 
+- 📖   I'm currently taking **CS50’s Introduction to Computer Science** course.
+
 - ✉️   How to reach me **jamiebuick28@gmail.com**
 
 
