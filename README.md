@@ -1,8 +1,6 @@
 <h1 align="center">Hi I'm Jamie 👋 </h1>
 
-- 📚  MEng Electronic Engineering.
-
-- 🌍  I'm based in Ireland.
+- 🌍   I'm based in Ireland.
 
 - ✔️   I am a Control Systems Software Engineer trying to find my way in Web development.
 
