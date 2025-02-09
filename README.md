@@ -6,7 +6,7 @@
 
 - 🌱   I’m currently learning **Full Stack Web Development.**
 
-- 📖   I'm currently taking **CS50’s Introduction to Computer Science** course.
+- 📖   I'm currently taking **ATU Galway/ Mayo HDip Software Development** course.
 
 - ✉️   How to reach me **jamiebuick28@gmail.com**
 
