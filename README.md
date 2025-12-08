@@ -2,7 +2,7 @@
 
 - 🌍   I'm based in Ireland.
 
-- ✔️   I am a Control Systems Software Engineer trying to find my way in Web development.
+- ✔️   I'm a Control Systems Software Engineer.
 
 - 🌱   I’m currently learning **Full Stack Web Development.**
 
