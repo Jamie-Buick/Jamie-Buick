@@ -4,8 +4,6 @@
 
 - ✔️   I'm a Control Systems Software Engineer.
 
-- 🌱   I’m currently learning **Full Stack Web Development.**
-
 - 📖   I'm currently taking **ATU Galway/ Mayo HDip Software Development** course.
 
 - ✉️   How to reach me **jamiebuick28@gmail.com**
